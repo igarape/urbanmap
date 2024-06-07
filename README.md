@@ -9,7 +9,7 @@ Urban Map is a geospatial open-source product that allows users to input and see
 First clone the repo using Git.
 
 ```
-git clone https://github.com/igarape/urbanmap
+git clone https://github.com/igarape/urbanradar
 ```
 
 To run Urban Map, you will need to have Docker installed. Once Docker is installed, you can run the following command in the root of the directory.
